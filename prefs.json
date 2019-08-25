@@ -1,0 +1,5 @@
+{"mysql_host" :  "localhost",
+"mysql_user" :  "aaaa",
+"mysql_pass" : "aaaa",
+"mysql_db_name" : "hwmysql",
+"default_input_filepath" :  "input.json"}

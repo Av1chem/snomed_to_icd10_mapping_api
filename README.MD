@@ -1,5 +1,5 @@
 How to use it?
-1) Create mysql database from db.sql file
+1) Create mysql database from db.sql file (unzip it from db.zip)
 2) You need to specify mysql host name, user/pass, database name in prefs.json file.
 3) You have to install python3, Flask & mysql connecotor libriries for python via commands:
 pip install flask
